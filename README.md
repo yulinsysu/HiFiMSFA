@@ -7,7 +7,7 @@ This repository is the official PyTorch implementation of HiFiMSFA: Robust and H
 If you need to train HiFiMSFA, you should use commond line as following.
 
       python train.py
-Requirements: torch==1.10.1+cu111 torchvision==0.11.2+cu111 kornia==0.6.8
+Requirements: torch == 1.10.1+cu111  torchvision == 0.11.2+cu111  kornia == 0.6.8
 
 ## Test
 The pre-trained model of HiFiMSFA is avaliable at the pretrain floder. you can test it by command line as following.
